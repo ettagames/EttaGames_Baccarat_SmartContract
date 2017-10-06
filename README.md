@@ -1,1 +1,1 @@
-# EttaGames_Baccarat_SmartContract
+# Baccarat Smart Contract by ETTA Games.
